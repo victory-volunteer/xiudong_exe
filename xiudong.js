@@ -326,18 +326,20 @@ function create_crtraceid() {
 }
 function create_crpsign(t_, st_flpv, cuuserref, crtraceid, url_path, I_, sign = '', userid = '', id_token = '') {
     var url = url_path
-        var t = t_,
+        var t = t_
+,
     a = sign,
     i = id_token,
     s = userid,
-    y = cuuserref,
-    I = I_,
+    y = cuuserref
+,
+    I = I_
+,
     f = "wap",
     h = crtraceid;
     var E = t + a + i + s + "wap" + y + I + url + "997" + f + h;
     return _md5(E)
 }
-
 function create_key(cuuserret, crtraceid) {
     var y = cuuserret;
     var h = crtraceid;
