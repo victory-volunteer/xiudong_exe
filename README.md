@@ -8,7 +8,7 @@
 
 > 本文仅提供打包好的exe可执行程序，具体分析流程参见公众号文章[某秀dong js逆向分析 发包抓取](https://mp.weixin.qq.com/s?__biz=Mzg2MTY5NTU0Mg==&mid=2247483822&idx=1&sn=712f7354d2c4d77184e18d4cfc713605&chksm=ce127af7f965f3e10e7edce45c31c339f661723425456cbebb2a1dc2ae560e549d09a6ef59ba&payreadticket=HCNUaBeglLKJ_TM6OZInN-WuJM-vHkVF5BFDg1w6LN9UYwIlPWmWJXlYCuq-R8l9QxIF0yY)。
 >
-> - [github文章参考](https://github.com/victory-volunteer/xiudong_js)
+> 
 
 解压后主要文件如下：
 
