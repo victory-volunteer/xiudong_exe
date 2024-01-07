@@ -29,7 +29,7 @@ ticketnum = 1
 
 [user]
 ;用户电话
-mobile = 18734366588
+mobile = 123456
 ;用户sign(可不填)
 sign = 
 ;用户userid(可不填)
